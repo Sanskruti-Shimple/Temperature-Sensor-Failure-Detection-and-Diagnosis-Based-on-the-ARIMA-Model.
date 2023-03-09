@@ -5,7 +5,7 @@
  -----------------------------------------------------------------------------------------------------------
  
  <h1><b>Summary<b/><h1/>
- Predicted the future values of temperature of the temperature sensors and predict which type of fault has happened in the sensor. To Predict the values, I have used the ARIMA model.
+<h5>Predicted the future values of temperature of the temperature sensors and predict which type of fault has happened in the sensor. To Predict the values, I have used the ARIMA model.
 
 Common terms to start with this project are as follows:
 
@@ -26,7 +26,7 @@ D value : D is how many times you are using the differencing method to make your
 Autocorrelation: It is a similarity between the observations as a function of the time lag between them. Autocorrelation tells us that where the data is stationary or not.
 
 AIC (Akaike information criterion): These AIC values are used to choose the right p, I, and d values for us.
- 
+ </h5> 
  
  
  
