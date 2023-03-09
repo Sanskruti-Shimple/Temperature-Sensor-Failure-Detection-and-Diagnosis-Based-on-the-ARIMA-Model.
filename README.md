@@ -23,6 +23,7 @@
 
 
 Abstract
+
 In industry, the use of temperature sensors is paramount, with real-time sensors being crucial for temperature fluctuations. 
 However, such sensing systems may fail due to environmental or technical factors such as corrosion, sensor body fault, or wire 
 fault in the assembly line. Therefore, a reliable sensor on that infrastructure is required to complete the process efficiently. In this 
