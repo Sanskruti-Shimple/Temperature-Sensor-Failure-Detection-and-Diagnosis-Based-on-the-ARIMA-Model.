@@ -1,6 +1,25 @@
 # Temperature-Sensor-Failure-Detection-and-Diagnosis-Based-on-the-ARIMA-Model.
-Second Year-EDAI-Project _ Data Prediction and Early Detection of Errors in Temperature Sensors (DPEDETS)
 
+ -----------------------------------------------------------------------------------------------------------
+| Second Year-EDAI-Project _ Data Prediction and Early Detection of Errors in Temperature Sensors (DPEDETS) |
+ -----------------------------------------------------------------------------------------------------------
+ 
+ 
+*Dataset Prepared in Excel using the tool Data Stramer
+
+![image](https://user-images.githubusercontent.com/84955646/223958627-12588166-4b7a-4908-b5dc-437c008d384e.png)
+
+*Algorithm of the Project 
+
+![image](https://user-images.githubusercontent.com/84955646/223958766-18dfcbbd-d366-4d80-b152-6590d6b22ab3.png)
+
+*Pseudocode
+
+![image](https://user-images.githubusercontent.com/84955646/223958850-b27149b3-32ec-483b-93c0-34b028e3b6d3.png)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Abstract
@@ -117,3 +136,36 @@ b) Hardware
 4) LM35
 
 ![image](https://user-images.githubusercontent.com/84955646/223957031-14e937e6-6af8-46b7-b012-d8e2f25ca06b.png)
+
+
+
+
+8) Experimental Result Analysis
+A predictive data frame that has been created can be transformed into a CSV file. With the aid of projected figures, 
+we can determine what kind of inaccuracy took place. The red line in the following picture represents expected data, 
+whereas the blue line represents sensory data. In Fig. 6.1 the first graph is a thermistor sensor data graph. We 
+compare two data sets; suddenly there is a big difference between the two readings, which is why we conclude that 
+there is a sensory error.
+
+![Faulty Sensor Responses](https://user-images.githubusercontent.com/84955646/223957709-6b31e04c-163e-420b-8800-6424e934082f.jpg)
+
+
+We compared two sets of data, there was a lot of difference between the two readings and the difference was 
+even bigger, so we concluded that there was a sensor error. The third graph shown is the graphical database of the 
+RTD PT100 sensor. We compared two data sets, and there is a lot of variation between the two curves, and the 
+difference is also huge, which is why we conclude that there is a sensory error. The fourth graph is the graphical data 
+graph of the LM35 shown. We compared two data sets, and there is a lot of variation between the two curves, and 
+the difference is also huge, which is why we conclude that there is a sensory error.
+
+
+
+9)  Conclusion
+Introduces a method called DPEDETS, which detects premature neurological failure based on realtime exposure. Data were taken from industrial temperature sensors. The DPEDETS method uses the ARIMA model 
+to evaluate sensory data to understand temporal adaptive capabilities. This assessment method is employed as a 
+framework to offer an additional indicator of body sensitivity. Used as a reference to the DPEDETS method for 
+misinterpreting expected data from the ARIMA model, early detection of sensory failure, and data retention. The 
+DPEDETS method involves both predictive and diagnostic methods. In case of confusion, the algorithm separates 
+the false data and finds the data number and related estimates. In addition, in the case of persistent error data, 
+detection can be a very quick sensory failure and requested data retention process to provide predictable measures. 
+Experimental tests indicate that the DPEDETS method can be used in industrial temperature monitoring systems 
+with high accuracy and efficiency.
