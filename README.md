@@ -1,7 +1,7 @@
 # Temperature-Sensor-Failure-Detection-and-Diagnosis-Based-on-the-ARIMA-Model.
 
  -----------------------------------------------------------------------------------------------------------
-| <h3> Second Year-EDAI-Project _ Data Prediction and Early Detection of Errors in Temperature Sensors (DPEDETS) </h3> |
+<h3> Second Year-EDAI-Project _ Data Prediction and Early Detection of Errors in Temperature Sensors (DPEDETS) </h3>
  -----------------------------------------------------------------------------------------------------------
  
  <h1><b>Summary<b/><h1/>
